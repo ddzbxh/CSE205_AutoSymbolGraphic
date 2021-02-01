@@ -1,4 +1,4 @@
-# CSE205_Project2_SymbolImgGeneration
+# CSE205_Project2_AutoSymbolGraphic
 DDL: October 29th, 2020
 
 使用for循环制作字符画即使对初学Python的人而言也显得有些简单。因此我制作了可以自动将图片转化成字符画的算法。因为比较简单所以并没有使用面向对象的思路。
