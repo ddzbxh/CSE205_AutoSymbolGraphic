@@ -1,4 +1,4 @@
-# CSE205_Project2
+# CSE205_Project2_SymbolImgGeneration
 DDL: October 29th, 2020
 
 使用for循环制作字符画即使对初学Python的人而言也显得有些简单。因此我制作了可以自动将图片转化成字符画的算法。对我来说，这个脚本可以很好的练习如何在Python中使用二维矩阵，以及Tkinter。
